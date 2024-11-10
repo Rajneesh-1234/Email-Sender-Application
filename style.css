@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #007bff;
+    color: white;
+}
+
+header h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+header p {
+    font-size: 1.5em;
+    margin-bottom: 40px;
+}
+
+footer {
+    background: #343a40;
+    color: white;
+}
+
+main {
+    margin-top: 20px;
+}
+
+form label {
+    font-weight: bold;
+}
+
+form .form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-control::placeholder {
+    color: #6c757d;
+    opacity: 1;
+}
